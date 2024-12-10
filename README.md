@@ -1,2 +1,2 @@
 # gas-example
-GAS example
+Google Apps Script example
